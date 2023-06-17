@@ -81,6 +81,15 @@ hr{
     color: white;
     transition: .3s ease-in;
 }
+.gallery_title{
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 2px;
+    color: #0C134F;
+}
+img.gallery_img{
+    height: 100%;
+    width: 100%;
+}
 .footer_section{
     background-color: #0C134F;
 }
